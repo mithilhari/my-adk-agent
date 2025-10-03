@@ -6,5 +6,5 @@ This repository contains an AI agent built using the **Google Agent Development 
 
 1. **Clone the repository and navigate into the directory:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/REPO_NAME.git](https://github.com/YOUR_USERNAME/REPO_NAME.git)
+   git clone [https://github.com/mithilhari/my-adk-agent.git](https://github.com/mithilhari/my-adk-agent.git)
    cd my-adk-agent
